@@ -1,0 +1,2 @@
+# Algorithms
+Solved algorithmic tasks.
