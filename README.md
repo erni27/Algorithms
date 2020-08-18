@@ -1,2 +1,2 @@
 # Algorithms
-Solved algorithmic tasks.
+Some algorithmic exercises. 
